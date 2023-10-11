@@ -1,1 +1,1 @@
-experiment with amend
+git is awesome!
